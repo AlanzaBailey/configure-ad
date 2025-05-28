@@ -224,11 +224,17 @@ Learn how to set up an on-premises-style Active Directory inside Azure Virtual M
 <br />
 <br />
 <p>
-  I hope this tutorial helped you learn a little bit about network security protocols and observe traffic between virtual machines. This can be easily done on a PC or a Mac. Mac would just have an extra step to download the Remote Desktop App.
+  I hope this tutorial helped you get a better understanding of network security protocols and how to monitor traffic between virtual machines. You can easily follow these steps on both PC and Mac—just note that Mac users will need to download the Remote Desktop app first.
+
+Now that you're done, don't forget to clean up your Azure environment to avoid unexpected charges!
+
+Close your Remote Desktop session
+
+Delete any Resource Groups you created during the tutorial
+
+Double-check to make sure everything has been removed
 </p>
 <p>
-  Now that we're done, DON'T FORGET TO CLEAN UP YOUR AZURE ENVIRONMENT so that you don't incur unnecessary charges.
 </p>
 <p>
-  Close your Remote Desktop connection, delete the Resource Group(s) created at the beginning of this tutorial, and verify Resource Group deletion.
 </p>
